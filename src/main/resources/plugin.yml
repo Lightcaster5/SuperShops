@@ -1,0 +1,6 @@
+name: SuperShops
+main: dev.jonahm.supershops.SuperShops
+version: 1.0
+author: Lightcaster5
+website: https://jonahm.dev
+depend: [Vault]
