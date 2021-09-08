@@ -1,4 +1,5 @@
 # SuperShops
+[![wakatime](https://wakatime.com/badge/github/Lightcaster5/SuperShops.svg)](https://wakatime.com/badge/github/Lightcaster5/SuperShops)
 SuperShops plugin by Lightcaster5
 
 ## Features
